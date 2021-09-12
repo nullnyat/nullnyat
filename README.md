@@ -1,6 +1,6 @@
 <h1 align='center'>Hi(●'◡'●) I'm Nullcat chan!</h1>
 
-<img align='right' height='150rem' src='./images/nullcat.gif'>
+<img align='right' height='150rem' src='./images/nullcatchan.gif'>
 
 ### About me
 <ul>
