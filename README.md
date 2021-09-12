@@ -1,4 +1,4 @@
-<h1 align='center'>Hi(●'◡'●) I'm Nullcat chan!</h1>
+<h1 align='center'>Hi^>ω<^ I'm Nullcat chan!</h1>
 
 <img align='right' height='150rem' src='./images/nullcatchan.gif'>
 
