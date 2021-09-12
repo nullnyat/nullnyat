@@ -24,7 +24,7 @@
   <img src='https://img.shields.io/badge/OS-Arch%20Linux-blue?style=for-the-badge&logo=archlinux' alt='ArchLinux'>
   <img src='https://img.shields.io/badge/OS-Android12-green?style=for-the-badge&logo=android' alt='Android12'>
   <img src='https://img.shields.io/badge/IDE-VSCode%20Insiders-44b26f?style=for-the-badge&logo=visualstudiocode&logoColor=44b26f' alt='VSCode Insiders'>
-
+  
 ### What I know
 <p align='left'>
   <img src='./images/html.svg' width='40' height='40' hspace='5' alt='html'>
