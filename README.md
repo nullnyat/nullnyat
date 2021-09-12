@@ -6,7 +6,7 @@
 <ul>
   <li type='square'>I'm a high school student in Japan🏫
   <li type='square'>I've only been learning programming for a short time😓
-  <li type='square'>I've worked on several web design projects💻
+  <li type='square'>I've worked on several web design projects🎨
   <li type='square'>Please feel free to talk to me🥰
 </ul>
 
