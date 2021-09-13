@@ -36,8 +36,8 @@
 <p align='left'>
   <img src='./images/gnubash.svg' width='40' height='40' hspace='5' alt='bash'>
   <img src='./images/javascript.svg' width='40' height='40' hspace='5' alt='javascript'>
-  <img src='./images/typescript.svg' width='40' height='40' hspace='5' alt='javascript'>
-  <img src='./images/svelte.svg' width='40' height='40' hspace='5' alt='javascript'>
+  <img src='./images/typescript.svg' width='40' height='40' hspace='5' alt='typescript'>
+  <img src='./images/svelte.svg' width='40' height='40' hspace='5' alt='svelte'>
 
 ### Stats
 <p align='left'>
