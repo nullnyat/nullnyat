@@ -43,8 +43,9 @@
 
 ### Stats
 <p align='left'>
-  <img src='https://raw.githubusercontent.com/kcmz-org/github-stats-transparent/output/generated/overview.svg' width='300'></a>
+  <img src='https://raw.githubusercontent.com/kcmz-org/github-stats-transparent/output/generated/overview.svg' width='300'>
   <img src='https://raw.githubusercontent.com/kcmz-org/github-stats-transparent/output/generated/languages.svg' width='300'>
+  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=nullnyat'>
 
 <p align='right'>
   <img src='https://count.getloli.com/get/@:nullcat-github' width='250' alt='readmeviews'>
