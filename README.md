@@ -43,8 +43,8 @@
 
 ### Stats
 <p align='left'>
-  <img src='https://raw.githubusercontent.com/kcmz-org/github-stats-transparent/output/generated/overview.svg' width='300'>
-  <img src='https://raw.githubusercontent.com/kcmz-org/github-stats-transparent/output/generated/languages.svg' width='300'>
+  <img src='https://raw.githubusercontent.com/nullnyat-org/github-stats-transparent/output/generated/overview.svg' width='300'>
+  <img src='https://raw.githubusercontent.com/nullnyat-org/github-stats-transparent/output/generated/languages.svg' width='300'>
   <img src='https://github-readme-stats.vercel.app/api/wakatime?username=nullnyat'>
 
 <p align='right'>
