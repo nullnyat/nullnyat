@@ -41,9 +41,9 @@
 
 ### Stats
 <p align='left'>
-  <img src='https://github-readme-stats.vercel.app/api?username=nullnyat&theme=github_dark&show_icons=true&hide_border'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nullnyat&theme=github_dark&layout=compact&hide_border'>
-  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=nullnyat&theme=github_dark&hide_border'>
+  <img src='https://github-readme-stats.vercel.app/api?username=nullnyat&theme=github_dark&show_icons=true&hide_border=true'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nullnyat&theme=github_dark&layout=compact&hide_border=true'>
+  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=nullnyat&theme=github_dark&hide_border=true'>
 
 <p align='right'>
   <img src='https://count.getloli.com/get/@:nullcat-github' width='250' alt='readmeviews'>
