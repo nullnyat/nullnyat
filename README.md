@@ -1,4 +1,4 @@
-<h1 align='center'>Hi I'm ℕullcɐt chaη!</h1>
+<h1 align='center'>Hi! I'm ℕullcɐt chaη!</h1>
 
 ### About me
 <ul>
