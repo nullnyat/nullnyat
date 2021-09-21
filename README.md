@@ -14,9 +14,9 @@
 <a href='https://discord.com/users/839568515848470538' target='_blank' rel='noopener'>
   <img src='https://img.shields.io/badge/discord-%236C54E8.svg?&style=for-the-badge&logo=discord&logoColor=white' alt='Discord-Link'></a>
 <a href='https://t.me/nullnyat'>
-  <img src='https://img.shields.io/badge/Telegram-%232ca5e0.svg?&style=for-the-badge&logo=Telegram'></a>
+  <img src='https://img.shields.io/badge/Telegram-%232ca5e0.svg?&style=for-the-badge&logo=Telegram' alt='Telegram-Link'></a>
 <a href='https://keybase.io/nullnyat'>
-  <img src='https://img.shields.io/badge/Telegram-%2333a0ff.svg?&style=for-the-badge&logo=keybase&logoColor=white'></a>
+  <img src='https://img.shields.io/badge/keybase-%2333a0ff.svg?&style=for-the-badge&logo=keybase&logoColor=white' alt='Keybase-Link'></a>
 <a href='mailto://nullnyat@gmail.com'>
   <img src='https://img.shields.io/badge/Gmail-%23de5548.svg?&style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail-Link'></a>
 
