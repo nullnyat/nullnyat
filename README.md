@@ -1,4 +1,4 @@
-<h1 align='center'>Hi<img src='./images/Nullcat.png' width='50' height='50'> I'm Nullcat chan!</h1>
+<h1 align='center'>Hi~! I'm Nullcat chan!</h1>
 
 ### About me
 <ul>
