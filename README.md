@@ -2,10 +2,10 @@
 
 ### About me
 <ul>
-  <li type='square'>I've only been learning programming for a short time😓
+  <li type='square'>I've only been learning programming for a short time.
   <li type='square'>I've worked on several web design project.
   <li type='square'>I can speak Japanese and English. (I use translation, so any language is fine!)
-  <li type='square'>Please feel free to talk to me🥰
+  <li type='square'>Please feel free to talk to me!
 </ul>
 
 ### My Links
