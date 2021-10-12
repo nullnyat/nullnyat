@@ -11,6 +11,12 @@
  <img src="https://img.shields.io/badge/-Sass-161821.svg?logo=sass&style=flat-square">
  <img src="https://img.shields.io/badge/-Svelte-161821.svg?logo=Svelte&style=flat-square">
  <img src="https://img.shields.io/badge/-Git-161821.svg?logo=git&style=flat-square">
+ <img src="https://img.shields.io/badge/-Adobe%20Illustrator-161821.svg?logo=adobe-illustrator&style=flat-square">
+ <img src="https://img.shields.io/badge/-Adobe%20Photoshop-161821.svg?logo=adobe-photoshop&style=flat-square">
+ <img src="https://img.shields.io/badge/-Adobe%20XD-161821.svg?logo=adobe-xd&style=flat-square">
+ <img src="https://img.shields.io/badge/-Microsoftexcel-161821.svg?logo=microsoftexcel&style=flat-square&logoColor=217346">
+ <img src="https://img.shields.io/badge/-Microsoftword-161821.svg?logo=microsoftword&style=flat-square&logoColor=2B579A">
+ <img src="https://img.shields.io/badge/-Powershell-161821.svg?logo=powershell&style=flat-square">
 
 ## 𝗦𝘁𝗮𝘁𝘀
 <p align="left">
