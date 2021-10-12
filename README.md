@@ -10,12 +10,7 @@
  <img src="https://img.shields.io/badge/-CSS-161821.svg?logo=css3&style=flat-square&logoColor=1572B6">
  <img src="https://img.shields.io/badge/-Sass-161821.svg?logo=sass&style=flat-square">
  <img src="https://img.shields.io/badge/-Svelte-161821.svg?logo=Svelte&style=flat-square">
- <img src="https://img.shields.io/badge/-TypeScript-161821.svg?logo=typescript&style=flat-square">
- <img src="https://img.shields.io/badge/-JavaScript-161821.svg?logo=javascript&style=flat-square">
  <img src="https://img.shields.io/badge/-Git-161821.svg?logo=git&style=flat-square">
- <img src="https://img.shields.io/badge/-Electron-161821.svg?logo=electron&style=flat-square">
- <img src="https://img.shields.io/badge/-PHP-161821.svg?logo=php&style=flat-square">
- <img src="https://img.shields.io/badge/-Python-161821.svg?logo=python&style=flat-square">
 
 ## 𝗦𝘁𝗮𝘁𝘀
 <p align="left">
