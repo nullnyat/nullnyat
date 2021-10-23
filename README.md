@@ -3,6 +3,7 @@
 <p align="left">
  <a href="https://twitter.com/nullnyat"><img src="https://img.shields.io/badge/-@nullnyat-161821.svg?logo=twitter&style=flat-square"></a>
  <a href="https://discord.com/users/839568515848470538"><img src="https://img.shields.io/badge/-nullnyat%EF%BC%830001-161821.svg?logo=discord&style=flat-square"></a>
+ <a href="https://keybase.io/nullnyat"><img src="https://img.shields.io/badge/-nullnyat-161821.svg?logo=keybase&style=flat-square"></a>
 
 ## 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
 <p align="left">
