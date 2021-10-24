@@ -22,5 +22,3 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 <p align="left">
  <img alt="nullnyat's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nullnyat&layout=compact&hide_border=ture&theme=nord&show_icons=ture&bg_color=161821&icon_color=95C4CE&text_color=FFF&title_color=91ACD1&count_private=ture">
- <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullnyat&layout=compact&hide_border=ture&theme=nord&bg_color=161821&icon_color=95C4CE&text_color=FFF&title_color=91ACD1">
- <img alt="nullnyat's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=nullnyat&layout=compact&hide_border=ture&theme=nord&bg_color=161821&icon_color=95C4CE&text_color=FFF&title_color=91ACD1">
