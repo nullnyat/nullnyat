@@ -1,4 +1,5 @@
 # <img src="assets/meow_photo.gif" height="32" width="32">𝗛𝗶 𝗜'𝗺 𝗡𝘂𝗹𝗹𝗰𝗮𝘁 𝗰𝗵𝗮𝗻!
+<img max-width="800" src="assets/header.png"/>
 
 <p align="left">
  <a href="https://twitter.com/nullnyat"><img src="https://img.shields.io/badge/-@nullnyat-161821.svg?logo=twitter&style=flat-square"></a>
