@@ -1,4 +1,4 @@
-<h1 align="center"> 𝗛𝗶 𝗜'𝗺 𝗻𝘂𝗹𝗹𝗻𝘆𝗮𝘁</h1>
+<h1 align="center"> 𝗛𝗶 𝗜'𝗺 𝗻𝘂𝗹𝗹𝗻𝘆𝗮𝘁!</h1>
 <p align="center"><img src="assets/header.png">
 
  ## 𝗟𝗶𝗻𝗸𝘀
