@@ -1,11 +1,6 @@
 <h1 align="center"> 𝗛𝗶! 𝗜'𝗺 𝗻𝘂𝗹𝗹𝗰𝗮𝘁!</h1>
 <p align="center"><img src="assets/header.png">
  
-## 𝗟𝗶𝗻𝗸𝘀
-<p align="left">
- <a href="https://discord.com/users/839568515848470538"><img src="https://img.shields.io/badge/-nullnyat%EF%BC%830001-161821.svg?logo=discord&style=flat-square"></a>
- <a href="https://keybase.io/nullnyat"><img src="https://img.shields.io/badge/-nullnyat-161821.svg?logo=keybase&style=flat-square"></a>
-
 ## 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
 <p align="left">
  <img src="https://img.shields.io/badge/-HTML-161821.svg?logo=html5&style=flat-square">
