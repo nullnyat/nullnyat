@@ -1,5 +1,5 @@
 <h1 align="center"> 𝗛𝗶! 𝗜'𝗺 𝗻𝘂𝗹𝗹𝗰𝗮𝘁!</h1>
-<p align="center"><img src="assets/header.png">
+<p align="center"><img src="img/banner.png">
 
 ## 𝗦𝘁𝗮𝘁𝘀
 <p align="left">
