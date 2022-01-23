@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! I'm NullCat!</h1>
-<p align="center"><img src="img/banner.png">
+<p align="center"><img src="https://github.com/ncatsystem/ncat-assets/blob/main/1500x500.jpg">
 
 ## Stats
 <p align="left">
