@@ -1,6 +1,6 @@
 <h1 align="center"> Hi I'm NullCat!</h1>
 
-<img width="89%" src=https://user-images.githubusercontent.com/89781396/154174165-7c0b8c5d-85d7-46ee-b191-2f9595a6e82f.png>
+<p align="center"><img width="89%" src=https://user-images.githubusercontent.com/89781396/154174165-7c0b8c5d-85d7-46ee-b191-2f9595a6e82f.png></p>
 
 <table>
   <tr>
