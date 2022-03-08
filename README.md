@@ -1,4 +1,4 @@
-<p align="center"><img width="89%" src=https://s3.nca10.net/misskey/2689d285-88fc-470e-aa78-758885c0ac8c.png></p>
+<p align="center"><img width="89%" src="https://user-images.githubusercontent.com/89781396/157190038-a517e789-07ec-4389-abd1-73d9ecc48c35.png"></p>
 
 <table align="center">
   <tr>
