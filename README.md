@@ -1,4 +1,3 @@
-## Status
 <img src="https://user-images.githubusercontent.com/89781396/171608871-d7622208-18c0-4150-818e-3fd845718ca1.png">
 <table align="center">
   <tr>
